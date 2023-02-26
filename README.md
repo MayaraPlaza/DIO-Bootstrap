@@ -21,6 +21,3 @@ Esse projeto foi desenvolvido com:
 
 <img src="./files/html.svg" width="100"><img src="./files/css.svg" width="100"><img src="./files/bootstrap.svg" width="100">
 
-# :art: Layout
-
-<img src="./files/bootstrap.jpg" alt="" width="100%">
